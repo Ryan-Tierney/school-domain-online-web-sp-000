@@ -21,6 +21,8 @@ class School
  
  def sort 
    new_hash = {}
-   roster.sort do |
+   roster.sort do |x, y|
+   new_hash << y 
+ end 
  end 
 end

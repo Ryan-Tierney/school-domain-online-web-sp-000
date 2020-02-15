@@ -12,7 +12,8 @@ class School
  end 
 
  def grade(grade)
-   roster.detect || x.y
+   roster.detect |x,y|
+   if 
  end 
  
  def sort 

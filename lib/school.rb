@@ -15,6 +15,7 @@ class School
    roster.detect |x,y|
    if x == grade 
      return y 
+   end 
  end 
  
  def sort 

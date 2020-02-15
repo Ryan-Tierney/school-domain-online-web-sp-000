@@ -1,3 +1,3 @@
 class School 
-  def school(name)
+  def school=
     school.new = school 

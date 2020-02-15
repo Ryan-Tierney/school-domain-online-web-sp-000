@@ -16,6 +16,7 @@ class School
    if x == grade 
      return y 
    end 
+   end 
  end 
  
  def sort 

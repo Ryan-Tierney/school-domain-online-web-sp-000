@@ -20,5 +20,6 @@ class School
  end 
  
  def sort 
+   roster.sort do |
  end 
 end

@@ -13,7 +13,8 @@ class School
 
  def grade(grade)
    roster.detect |x,y|
-   if 
+   if x == grade 
+     puts y
  end 
  
  def sort 

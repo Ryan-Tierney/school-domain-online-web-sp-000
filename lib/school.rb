@@ -1,3 +1,6 @@
 class School 
-  def school=
-    school.new = school 
+  def school=(school)
+    @school = school 
+    
+  def school 
+    @school 
